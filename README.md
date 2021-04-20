@@ -6,7 +6,7 @@ This is a simple application made using ReactJS and Tailwind CSS. Items can be a
 
  Project is created with:
 * ReactJS
-* [Tailwind CSS]
+* [Tailwind CSS](https://tailwindcss.com)
 
 ## Setup
 
