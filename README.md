@@ -1,4 +1,4 @@
-# Simple ToDo List using [React.js](https://reactjs.org)
+# Simple ToDo List App using [React.js](https://reactjs.org)
 
 This is a simple application made using ReactJS and Tailwind CSS. Items can be added to the menu, by default they are set as "ToDo", you can also delete an item from the menu as well as set it as completed. Completed Items can be viewed separately be pressing the "Show Completed" button. 
 
